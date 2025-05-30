@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/50125cae-b489-4611-b9dd-868043f71e45" alt="OpenFEMA Integration Thumbnail" width="400"/>
+</div>
+
+
 To integrate OpenFEMA API with the virtual_mayor project, we'll create a Python-based solution that fetches disaster data from FEMA and processes it for use in the virtual assistant. Here's how to implement this:
 
 1. Create openfema_integration.py in the /API Directory
