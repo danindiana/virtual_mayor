@@ -1,4 +1,6 @@
-![ChatGPT Image May 30, 2025, 12_16_05 PM](https://github.com/user-attachments/assets/57216a45-7939-44f6-96f5-18fff5623f92)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/57216a45-7939-44f6-96f5-18fff5623f92" alt="Virtual Mayor" width="400"/>
+</div>
 
 
 Co-located virtual Mayor / 9-11 call-center automated dispatch containerized ISO w/ solar and fiber connect/cognitive microwave packet broadcast/ tropospheric scatter.
